@@ -1,0 +1,23 @@
+{
+  "form_type": "ACORD-3 Liability-Notice-of-Occurence-",
+  "form_version": "1.0",
+  "extraction_date": "2025-08-29T00:30:11.879177",
+  "status": "extracted",
+  "fields": {
+    "amounts": [
+      15.0,
+      13.0
+    ],
+    "addresses": [
+      "15 years of experience as in web development full st",
+      "13 of those years was with the Healthcare Company how are came about this boot camp was I subscribe to new line and one day I received an email from new line and I talked about Ai and everything in our industry as far as developers are concerned is AI associated with my curiosity I like to think of myself as a lifelong learning subscribe to a workshop about Transformers and how they run their large language models and I have"
+    ],
+    "extraction_timestamp": "2025-08-29T00:30:11.876125",
+    "extraction_method": "enhanced_parsing"
+  },
+  "metadata": {
+    "source_files": [],
+    "processing_notes": [],
+    "confidence_score": 0.8
+  }
+}

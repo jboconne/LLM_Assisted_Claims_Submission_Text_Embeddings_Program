@@ -1,0 +1,11 @@
+{
+  "source_file": "IS_Intro.txt",
+  "extraction_date": "2025-08-29T00:30:11.871703",
+  "fields": {
+    "raw_text": "inscribe works on Mac or Windows and while this demo is on the Mac version the software is pretty much identical on both platforms using inscribe couldn't be simpler launched the application Dragon audio or video file onto Inc scribes media window click play and start typing hello you can type anything you want in inscribes text area you can start time codes anywhere you want to Mark when things happen and later you can click on the time codes to jump to that exact point in your video inscribe does not do the typing for you but it's wide selection of custom keyboard shortcuts makes it super easy to type notes and transcripts without your hands every leaving the keyboard you can learn more about inscribe and find additional tutorials on inscribes many features at inqscribe.com thanks for watching",
+    "text_length": 806,
+    "word_count": 140,
+    "extraction_method": "enhanced_parsing",
+    "extraction_timestamp": "2025-08-29T00:30:11.871700"
+  }
+}

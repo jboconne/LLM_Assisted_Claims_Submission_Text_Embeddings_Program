@@ -1,0 +1,54 @@
+# LLM Assisted Claims Submission Text Extraction Program
+# Requirements file for all dependencies
+
+# Core Python packages
+python-dateutil>=2.8.2
+pathlib2>=2.3.7
+
+# File processing and text extraction
+PyPDF2>=3.0.1
+pdfplumber>=0.9.0
+pytesseract>=0.3.10
+Pillow>=9.5.0
+
+# Audio and video processing
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+opencv-python>=4.8.0
+moviepy>=1.0.3
+
+# Data processing and utilities
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Logging and monitoring
+colorlog>=6.7.0
+
+# NEW: Text embeddings and vector search
+sentence-transformers>=2.2.2
+torch>=2.0.0
+transformers>=4.30.0
+
+# NEW: Vector database clients
+pinecone-client>=2.2.4
+weaviate-client>=3.25.3
+
+# NEW: Web application
+Flask>=2.3.0
+Flask-CORS>=4.0.0
+
+# NEW: Additional utilities for embeddings
+scikit-learn>=1.3.0
+faiss-cpu>=1.7.4  # Alternative to Pinecone/Weaviate for local vector search
+
+# Development and testing (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Note: Some packages may require system-level dependencies:
+# - pytesseract requires Tesseract OCR to be installed on the system
+# - opencv-python may require additional system libraries
+# - SpeechRecognition works best with Google's speech recognition service
+# - sentence-transformers will download models on first use
+# - For GPU acceleration, install torch with CUDA support

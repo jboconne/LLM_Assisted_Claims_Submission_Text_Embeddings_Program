@@ -1,0 +1,96 @@
+# ACORD 1 - PROPERTY LOSS NOTICE
+
+**DATE (MM/DD/YYYY):** 04/15/2025
+
+## AGENCY INFORMATION
+**AGENCY NAME:** Premier Insurance Agency  
+**CONTACT:** Sarah Johnson  
+**PHONE (A/C, No, Ext):** (555) 432-1098 Ext. 204  
+**FAX (A/C, No):** (555) 432-1099  
+**E-MAIL ADDRESS:** sjohnson@premierinsurance.com  
+**CODE:** PA-5543  
+**SUBCODE:** 001  
+**AGENCY CUSTOMER ID:** SB00723  
+
+## POLICY INFORMATION
+**INSURED LOCATION CODE:** 001  
+**DATE OF LOSS AND TIME:** 04/10/2025 2:15 ☑ PM ☐ AM  
+
+### PROPERTY / HOME POLICY
+**CARRIER:** Northeast Insurance Company  
+**NAIC CODE:** 12345  
+**POLICY NUMBER:** CPP-876543-22  
+
+**LINE OF BUSINESS:** Commercial Property  
+
+### FLOOD POLICY
+**CARRIER:**  
+**NAIC CODE:**  
+**POLICY NUMBER:**  
+
+### WIND POLICY
+**CARRIER:**  
+**NAIC CODE:**  
+**POLICY NUMBER:**  
+
+## INSURED
+**NAME OF INSURED (First, Middle, Last):** Rivertown Coffee Shop LLC  
+**DATE OF BIRTH:**  
+**FEIN (if applicable):** 81-5432109  
+**MARITAL STATUS / CIVIL UNION (if applicable):** N/A  
+**PRIMARY PHONE #:** (555) 789-4321 ☐ HOME ☑ BUS ☐ CELL  
+**SECONDARY PHONE #:** (555) 987-6543 ☐ HOME ☐ BUS ☑ CELL  
+**INSURED'S MAILING ADDRESS:** 123 Main Street, Suite 101, Rivertown, ST 12345  
+**PRIMARY E-MAIL ADDRESS:** owner@rivertowncoffee.com  
+**SECONDARY E-MAIL ADDRESS:** manager@rivertowncoffee.com  
+
+**NAME OF SPOUSE (First, Middle, Last) (if applicable):**  
+**DATE OF BIRTH:**  
+**FEIN (if applicable):**  
+**MARITAL STATUS / CIVIL UNION (if applicable):**  
+**PRIMARY PHONE #:** ☐ HOME ☐ BUS ☐ CELL  
+**SECONDARY PHONE #:** ☐ HOME ☐ BUS ☐ CELL  
+**SPOUSE'S MAILING ADDRESS (if applicable):**  
+**PRIMARY E-MAIL ADDRESS:**  
+**SECONDARY E-MAIL ADDRESS:**  
+
+## CONTACT
+☑ CONTACT INSURED  
+**NAME OF CONTACT (First, Middle, Last):** Michael Chen (Owner)  
+**PRIMARY PHONE #:** (555) 987-6543 ☐ HOME ☐ BUS ☑ CELL  
+**SECONDARY PHONE #:** (555) 789-4321 ☐ HOME ☑ BUS ☐ CELL  
+**WHEN TO CONTACT:** Afternoons after 1:00 PM  
+**CONTACT'S MAILING ADDRESS:** 123 Main Street, Suite 101, Rivertown, ST 12345  
+**PRIMARY E-MAIL ADDRESS:** michael@rivertowncoffee.com  
+**SECONDARY E-MAIL ADDRESS:** owner@rivertowncoffee.com  
+
+## LOSS
+### LOCATION OF LOSS
+**STREET:** 123 Main Street, Suite 101  
+**CITY, STATE, ZIP:** Rivertown, ST 12345  
+**COUNTRY:** USA  
+**DESCRIBE LOCATION OF LOSS IF NOT AT SPECIFIC STREET ADDRESS:** Water damage in back storage room  
+
+### KIND OF LOSS
+☐ FIRE  
+☐ THEFT  
+☐ LIGHTNING  
+☐ HAIL  
+☐ FLOOD  
+☐ WIND  
+☑ OTHER: Water Damage  
+
+**POLICE OR FIRE DEPARTMENT CONTACTED:** N/A  
+**REPORT NUMBER:** N/A  
+**REPORTED BY:** Michael Chen  
+**REPORTED TO:** Sarah Johnson  
+**PROBABLE AMOUNT ENTIRE LOSS:** $8,750  
+
+### DESCRIPTION OF LOSS & DAMAGE
+Water pipe burst in ceiling above storage room causing damage to ceiling tiles, drywall, and inventory storage shelving. Approximately 200 sq ft affected. Water was shut off within 30 minutes of discovery. Commercial dehumidifiers currently in use to dry affected area.
+
+---
+
+© 1988-2019 ACORD CORPORATION. All rights reserved.  
+The ACORD name and logo are registered marks of ACORD  
+ACORD 1 (2019/07)

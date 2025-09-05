@@ -1,0 +1,123 @@
+{
+  "Agency": "",
+  "ContactName": "",
+  "Phone": "",
+  "FaxNumber": "",
+  "EmailAddress": "",
+  "Code": "",
+  "SubCode": "",
+  "AgencyCustomerID": "",
+  "InsuredLocationCode": "",
+  "Date": "",
+  "DateOfLoss": "",
+  "DateOfLossTime": "",
+  "HomePolicy": {
+    "Carrier": "",
+    "NAICCode": "",
+    "PolicyNumber": ""
+  },
+  "LineOfBusiness": "",
+  "FloodPolicy": {
+    "Carrier": "",
+    "NAICCode": "",
+    "PolicyNumber": ""
+  },
+  "WindPolicy": {
+    "Carrier": "",
+    "NAICCode": "",
+    "PolicyNumber": ""
+  },
+  "Insured": {
+    "InsuredName": "",
+    "DateOfBirth": "",
+    "FEIN": "",
+    "MaritalStatus": "",
+    "PrimaryPhone": "",
+    "PrimaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "SecondaryPhone": "",
+    "SecondaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "MailingAddress": "",
+    "PrimaryEmailAddress": "",
+    "SecondaryEmailAddress": "",
+    "NameOfSpouse": "",
+    "Spouse": {
+      "DateOfBirth": "",
+      "FEIN": "",
+      "MaritalStatus": "",
+      "PrimaryPhone": "",
+      "PrimaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "SecondaryPhone": "",
+      "SecondaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "MailingAddress": "",
+      "PrimaryEmailAddress": "",
+      "SecondaryEmailAddress": ""
+    }
+  },
+  "Contact": {
+    "ContactInsured": false,
+    "Name": "",
+    "PrimaryPhone": "",
+    "PrimaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "SecondaryPhone": "",
+    "SecondaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "WhenToContact": "",
+    "MailingAddress": "",
+    "PrimaryEmailAddress": "",
+    "SecondaryEmailAddress": ""
+  },
+  "Loss": {
+    "LocationOfLoss": {
+      "Street": "",
+      "CityStateZip": "",
+      "Country": "",
+      "DescribeLocation": ""
+    },
+    "KindOfLoss": {
+      "Fire": false,
+      "Lightning": false,
+      "Theft": false,
+      "Hail": false,
+      "Flood": false,
+      "Wind": false,
+      "Other": "",
+      "OtherCheckbox": false
+    },
+    "PoliceOrFireDeptContacted": "",
+    "ReportNumber": "",
+    "ProbableAmount": "",
+    "DescriptionOfLossAndDamage": "",
+    "ReportedBy": "",
+    "ReportedTo": ""
+  },
+  "Remarks": "",
+  "metadata": {
+    "extraction_date": "2025-08-29T00:30:11.872028",
+    "source_file": "IS_Intro.txt",
+    "confidence_score": 1.0,
+    "processing_notes": "Processed using unknown template"
+  }
+}

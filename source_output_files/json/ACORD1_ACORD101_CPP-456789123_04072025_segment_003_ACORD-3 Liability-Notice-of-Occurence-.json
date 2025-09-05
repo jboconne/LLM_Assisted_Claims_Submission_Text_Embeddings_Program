@@ -1,0 +1,22 @@
+{
+  "form_type": "ACORD-3 Liability-Notice-of-Occurence-",
+  "form_version": "1.0",
+  "extraction_date": "2025-08-29T00:30:11.852362",
+  "status": "extracted",
+  "fields": {
+    "3": "c additional remarks insured Northside Manufacturing Incorporated policy number C is in Charlie Pearson Paul he is in Paul Dash 456789123 carrier Centennial Commercial Insurance",
+    "amounts": [
+      3.0,
+      456.0,
+      789.0,
+      123.0
+    ],
+    "extraction_timestamp": "2025-08-29T00:30:11.849359",
+    "extraction_method": "enhanced_parsing"
+  },
+  "metadata": {
+    "source_files": [],
+    "processing_notes": [],
+    "confidence_score": 0.9
+  }
+}

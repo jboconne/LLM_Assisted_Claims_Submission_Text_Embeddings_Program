@@ -1,0 +1,5 @@
+2025-09-04 20:42:37,379 - INFO - Initializing embeddings generator with model: BAAI/bge-large-en-v1.5
+2025-09-04 20:42:37,380 - INFO - Using device: cuda
+2025-09-04 20:42:37,380 - INFO - Loading sentence transformer model...
+2025-09-04 20:42:37,383 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en-v1.5
+2025-09-04 20:42:42,839 - INFO - Model loaded successfully. Embedding dimension: 1024

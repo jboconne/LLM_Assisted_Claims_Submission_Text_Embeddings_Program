@@ -1,0 +1,1205 @@
+{
+  "pipeline_info": {
+    "version": "1.0",
+    "timestamp": "2025-09-04T20:51:03.068042",
+    "source_directory": "D:\\Training\\Shaw\\AI-Builders-Bootcamp-6\\session-3\\homework3\\LLM_Assisted_Claims_Submission_Text_Embeddings_Program\\source_output_files",
+    "output_directory": "D:\\Training\\Shaw\\AI-Builders-Bootcamp-6\\session-3\\homework3\\LLM_Assisted_Claims_Submission_Text_Embeddings_Program\\embeddings_output",
+    "index_name": "claims-embeddings-local"
+  },
+  "statistics": {
+    "total_chunks": 167,
+    "total_embeddings": 167,
+    "embedding_dimension": 1024,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "chunk_size": 512,
+    "chunk_overlap": 50
+  },
+  "chunks_summary": [
+    {
+      "chunk_id": "acord-1-form_chunk_000",
+      "source_file": "acord-1-form.txt",
+      "chunk_size": 512,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "acord-1-form_chunk_001",
+      "source_file": "acord-1-form.txt",
+      "chunk_size": 512,
+      "start_char": 462,
+      "end_char": 974
+    },
+    {
+      "chunk_id": "acord-1-form_chunk_002",
+      "source_file": "acord-1-form.txt",
+      "chunk_size": 512,
+      "start_char": 924,
+      "end_char": 1436
+    },
+    {
+      "chunk_id": "acord-1-form_chunk_003",
+      "source_file": "acord-1-form.txt",
+      "chunk_size": 512,
+      "start_char": 1386,
+      "end_char": 1898
+    },
+    {
+      "chunk_id": "acord-1-form_chunk_004",
+      "source_file": "acord-1-form.txt",
+      "chunk_size": 512,
+      "start_char": 1848,
+      "end_char": 2360
+    },
+    {
+      "chunk_id": "acord-1-form_chunk_005",
+      "source_file": "acord-1-form.txt",
+      "chunk_size": 511,
+      "start_char": 2310,
+      "end_char": 2822
+    },
+    {
+      "chunk_id": "acord-1-form_chunk_006",
+      "source_file": "acord-1-form.txt",
+      "chunk_size": 177,
+      "start_char": 2772,
+      "end_char": 2949
+    },
+    {
+      "chunk_id": "acord-101-completed_chunk_000",
+      "source_file": "acord-101-completed.txt",
+      "chunk_size": 512,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "acord-101-completed_chunk_001",
+      "source_file": "acord-101-completed.txt",
+      "chunk_size": 512,
+      "start_char": 462,
+      "end_char": 974
+    },
+    {
+      "chunk_id": "acord-101-completed_chunk_002",
+      "source_file": "acord-101-completed.txt",
+      "chunk_size": 472,
+      "start_char": 924,
+      "end_char": 1397
+    },
+    {
+      "chunk_id": "acord-101-completed_chunk_003",
+      "source_file": "acord-101-completed.txt",
+      "chunk_size": 512,
+      "start_char": 1347,
+      "end_char": 1859
+    },
+    {
+      "chunk_id": "acord-101-completed_chunk_004",
+      "source_file": "acord-101-completed.txt",
+      "chunk_size": 500,
+      "start_char": 1809,
+      "end_char": 2311
+    },
+    {
+      "chunk_id": "acord-101-completed_chunk_005",
+      "source_file": "acord-101-completed.txt",
+      "chunk_size": 512,
+      "start_char": 2261,
+      "end_char": 2773
+    },
+    {
+      "chunk_id": "acord-101-completed_chunk_006",
+      "source_file": "acord-101-completed.txt",
+      "chunk_size": 463,
+      "start_char": 2723,
+      "end_char": 3187
+    },
+    {
+      "chunk_id": "acord-101-completed_chunk_007",
+      "source_file": "acord-101-completed.txt",
+      "chunk_size": 180,
+      "start_char": 3137,
+      "end_char": 3317
+    },
+    {
+      "chunk_id": "acord-101-form_chunk_000",
+      "source_file": "acord-101-form.txt",
+      "chunk_size": 507,
+      "start_char": 0,
+      "end_char": 508
+    },
+    {
+      "chunk_id": "acord-101-form_chunk_001",
+      "source_file": "acord-101-form.txt",
+      "chunk_size": 487,
+      "start_char": 458,
+      "end_char": 946
+    },
+    {
+      "chunk_id": "acord-101-form_chunk_002",
+      "source_file": "acord-101-form.txt",
+      "chunk_size": 253,
+      "start_char": 896,
+      "end_char": 1149
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_000",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_001",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 511,
+      "start_char": 462,
+      "end_char": 974
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_002",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 924,
+      "end_char": 1436
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_003",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 464,
+      "start_char": 1386,
+      "end_char": 1851
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_004",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 435,
+      "start_char": 1801,
+      "end_char": 2237
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_005",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 2187,
+      "end_char": 2699
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_006",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 511,
+      "start_char": 2649,
+      "end_char": 3161
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_007",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 3111,
+      "end_char": 3623
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_008",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 3573,
+      "end_char": 4085
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_009",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 4035,
+      "end_char": 4547
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_010",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 4497,
+      "end_char": 5009
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_011",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 4959,
+      "end_char": 5471
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_012",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 5421,
+      "end_char": 5933
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_013",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 5883,
+      "end_char": 6395
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_014",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 511,
+      "start_char": 6345,
+      "end_char": 6857
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_015",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 512,
+      "start_char": 6807,
+      "end_char": 7319
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_016",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 447,
+      "start_char": 7269,
+      "end_char": 7717
+    },
+    {
+      "chunk_id": "acord-3-completed_chunk_017",
+      "source_file": "acord-3-completed.txt",
+      "chunk_size": 396,
+      "start_char": 7667,
+      "end_char": 8063
+    },
+    {
+      "chunk_id": "ACORD1_ACORD101_CPP-456789123_04072025_segment_001_chunk_000",
+      "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_001.txt",
+      "chunk_size": 512,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "ACORD1_ACORD101_CPP-456789123_04072025_segment_001_chunk_001",
+      "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_001.txt",
+      "chunk_size": 512,
+      "start_char": 462,
+      "end_char": 974
+    },
+    {
+      "chunk_id": "ACORD1_ACORD101_CPP-456789123_04072025_segment_001_chunk_002",
+      "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_001.txt",
+      "chunk_size": 100,
+      "start_char": 924,
+      "end_char": 1024
+    },
+    {
+      "chunk_id": "ACORD1_ACORD101_CPP-456789123_04072025_segment_002_chunk_000",
+      "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_002.txt",
+      "chunk_size": 512,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "ACORD1_ACORD101_CPP-456789123_04072025_segment_002_chunk_001",
+      "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_002.txt",
+      "chunk_size": 511,
+      "start_char": 462,
+      "end_char": 974
+    },
+    {
+      "chunk_id": "ACORD1_ACORD101_CPP-456789123_04072025_segment_002_chunk_002",
+      "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_002.txt",
+      "chunk_size": 512,
+      "start_char": 924,
+      "end_char": 1436
+    },
+    {
+      "chunk_id": "ACORD1_ACORD101_CPP-456789123_04072025_segment_002_chunk_003",
+      "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_002.txt",
+      "chunk_size": 237,
+      "start_char": 1386,
+      "end_char": 1623
+    },
+    {
+      "chunk_id": "ACORD1_ACORD101_CPP-456789123_04072025_segment_003_chunk_000",
+      "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_003.txt",
+      "chunk_size": 181,
+      "start_char": 0,
+      "end_char": 181
+    },
+    {
+      "chunk_id": "ACORD1_ACORD101_CPP-456789123_04072025_segment_004_chunk_000",
+      "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_004.txt",
+      "chunk_size": 474,
+      "start_char": 0,
+      "end_char": 474
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 101 Form_chunk_000",
+      "source_file": "Completed Sample ACORD 101 Form.txt",
+      "chunk_size": 512,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 101 Form_chunk_001",
+      "source_file": "Completed Sample ACORD 101 Form.txt",
+      "chunk_size": 512,
+      "start_char": 462,
+      "end_char": 974
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 101 Form_chunk_002",
+      "source_file": "Completed Sample ACORD 101 Form.txt",
+      "chunk_size": 512,
+      "start_char": 924,
+      "end_char": 1436
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 101 Form_chunk_003",
+      "source_file": "Completed Sample ACORD 101 Form.txt",
+      "chunk_size": 441,
+      "start_char": 1386,
+      "end_char": 1828
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 101 Form_chunk_004",
+      "source_file": "Completed Sample ACORD 101 Form.txt",
+      "chunk_size": 509,
+      "start_char": 1778,
+      "end_char": 2288
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 101 Form_chunk_005",
+      "source_file": "Completed Sample ACORD 101 Form.txt",
+      "chunk_size": 476,
+      "start_char": 2238,
+      "end_char": 2715
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 101 Form_chunk_006",
+      "source_file": "Completed Sample ACORD 101 Form.txt",
+      "chunk_size": 416,
+      "start_char": 2665,
+      "end_char": 3082
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 101 Form_chunk_007",
+      "source_file": "Completed Sample ACORD 101 Form.txt",
+      "chunk_size": 180,
+      "start_char": 3032,
+      "end_char": 3212
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_000",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 512,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_001",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 511,
+      "start_char": 462,
+      "end_char": 974
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_002",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 511,
+      "start_char": 924,
+      "end_char": 1436
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_003",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 457,
+      "start_char": 1386,
+      "end_char": 1844
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_004",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 511,
+      "start_char": 1794,
+      "end_char": 2306
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_005",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 512,
+      "start_char": 2256,
+      "end_char": 2768
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_006",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 511,
+      "start_char": 2718,
+      "end_char": 3230
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_007",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 512,
+      "start_char": 3180,
+      "end_char": 3692
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_008",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 512,
+      "start_char": 3642,
+      "end_char": 4154
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_009",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 512,
+      "start_char": 4104,
+      "end_char": 4616
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_010",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 511,
+      "start_char": 4566,
+      "end_char": 5078
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_011",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 512,
+      "start_char": 5028,
+      "end_char": 5540
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_012",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 511,
+      "start_char": 5490,
+      "end_char": 6002
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_013",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 511,
+      "start_char": 5952,
+      "end_char": 6464
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_014",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 505,
+      "start_char": 6414,
+      "end_char": 6920
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_015",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 502,
+      "start_char": 6870,
+      "end_char": 7373
+    },
+    {
+      "chunk_id": "Completed Sample ACORD 3 Form_chunk_016",
+      "source_file": "Completed Sample ACORD 3 Form.txt",
+      "chunk_size": 139,
+      "start_char": 7323,
+      "end_char": 7462
+    },
+    {
+      "chunk_id": "IS_Intro_chunk_000",
+      "source_file": "IS_Intro.txt",
+      "chunk_size": 512,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "IS_Intro_chunk_001",
+      "source_file": "IS_Intro.txt",
+      "chunk_size": 344,
+      "start_char": 462,
+      "end_char": 806
+    },
+    {
+      "chunk_id": "TestimonialShort_chunk_000",
+      "source_file": "TestimonialShort.txt",
+      "chunk_size": 512,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "TestimonialShort_chunk_001",
+      "source_file": "TestimonialShort.txt",
+      "chunk_size": 391,
+      "start_char": 462,
+      "end_char": 853
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_000",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 511,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_001",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 462,
+      "end_char": 974
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_002",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 924,
+      "end_char": 1436
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_003",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 448,
+      "start_char": 1386,
+      "end_char": 1835
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_004",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 506,
+      "start_char": 1785,
+      "end_char": 2292
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_005",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 2242,
+      "end_char": 2754
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_006",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 2704,
+      "end_char": 3216
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_007",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 431,
+      "start_char": 3166,
+      "end_char": 3599
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_008",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 444,
+      "start_char": 3549,
+      "end_char": 3994
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_009",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 3944,
+      "end_char": 4456
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_010",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 511,
+      "start_char": 4406,
+      "end_char": 4918
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_011",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 506,
+      "start_char": 4868,
+      "end_char": 5375
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_012",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 465,
+      "start_char": 5325,
+      "end_char": 5791
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_013",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 5741,
+      "end_char": 6253
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_014",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 6203,
+      "end_char": 6715
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_015",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 6665,
+      "end_char": 7177
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_016",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 511,
+      "start_char": 7127,
+      "end_char": 7639
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_017",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 7589,
+      "end_char": 8101
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_018",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 422,
+      "start_char": 8051,
+      "end_char": 8474
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_019",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 456,
+      "start_char": 8424,
+      "end_char": 8881
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_020",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 511,
+      "start_char": 8831,
+      "end_char": 9343
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_021",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 9293,
+      "end_char": 9805
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_022",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 9755,
+      "end_char": 10267
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_023",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 415,
+      "start_char": 10217,
+      "end_char": 10633
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_024",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 10583,
+      "end_char": 11095
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_025",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 491,
+      "start_char": 11045,
+      "end_char": 11537
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_026",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 11487,
+      "end_char": 11999
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_027",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 511,
+      "start_char": 11949,
+      "end_char": 12461
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_028",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 440,
+      "start_char": 12411,
+      "end_char": 12852
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_029",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 482,
+      "start_char": 12802,
+      "end_char": 13285
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_030",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 13235,
+      "end_char": 13747
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_031",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 443,
+      "start_char": 13697,
+      "end_char": 14141
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_032",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 500,
+      "start_char": 14091,
+      "end_char": 14592
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_033",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 14542,
+      "end_char": 15054
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_034",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 15004,
+      "end_char": 15516
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_035",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 511,
+      "start_char": 15466,
+      "end_char": 15978
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_036",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 512,
+      "start_char": 15928,
+      "end_char": 16440
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_037",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 436,
+      "start_char": 16390,
+      "end_char": 16827
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_038",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 437,
+      "start_char": 16777,
+      "end_char": 17215
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_039",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 435,
+      "start_char": 17165,
+      "end_char": 17601
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_040",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 414,
+      "start_char": 17551,
+      "end_char": 17966
+    },
+    {
+      "chunk_id": "populated_ACORD-3 Liability-Notice-of-Occurence-_chunk_041",
+      "source_file": "populated_ACORD-3 Liability-Notice-of-Occurence-.txt",
+      "chunk_size": 453,
+      "start_char": 17916,
+      "end_char": 18369
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_000",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 501,
+      "start_char": 0,
+      "end_char": 502
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_001",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 503,
+      "start_char": 452,
+      "end_char": 956
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_002",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 410,
+      "start_char": 906,
+      "end_char": 1317
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_003",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 512,
+      "start_char": 1267,
+      "end_char": 1779
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_004",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 512,
+      "start_char": 1729,
+      "end_char": 2241
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_005",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 511,
+      "start_char": 2191,
+      "end_char": 2703
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_006",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 512,
+      "start_char": 2653,
+      "end_char": 3165
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_007",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 436,
+      "start_char": 3115,
+      "end_char": 3552
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_008",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 437,
+      "start_char": 3502,
+      "end_char": 3940
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_009",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 435,
+      "start_char": 3890,
+      "end_char": 4326
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_010",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 414,
+      "start_char": 4276,
+      "end_char": 4691
+    },
+    {
+      "chunk_id": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule_chunk_011",
+      "source_file": "populated_ACORD_101_(2008-01)Additional_Remarks_Schedule.txt",
+      "chunk_size": 453,
+      "start_char": 4641,
+      "end_char": 5094
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_000",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 511,
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_001",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 462,
+      "end_char": 974
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_002",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 924,
+      "end_char": 1436
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_003",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 421,
+      "start_char": 1386,
+      "end_char": 1808
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_004",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 1758,
+      "end_char": 2270
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_005",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 511,
+      "start_char": 2220,
+      "end_char": 2732
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_006",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 435,
+      "start_char": 2682,
+      "end_char": 3118
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_007",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 505,
+      "start_char": 3068,
+      "end_char": 3574
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_008",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 466,
+      "start_char": 3524,
+      "end_char": 3991
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_009",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 495,
+      "start_char": 3941,
+      "end_char": 4437
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_010",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 420,
+      "start_char": 4387,
+      "end_char": 4808
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_011",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 446,
+      "start_char": 4758,
+      "end_char": 5205
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_012",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 5155,
+      "end_char": 5667
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_013",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 422,
+      "start_char": 5617,
+      "end_char": 6040
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_014",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 5990,
+      "end_char": 6502
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_015",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 428,
+      "start_char": 6452,
+      "end_char": 6882
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_016",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 6832,
+      "end_char": 7344
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_017",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 511,
+      "start_char": 7294,
+      "end_char": 7806
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_018",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 7756,
+      "end_char": 8268
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_019",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 511,
+      "start_char": 8218,
+      "end_char": 8730
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_020",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 423,
+      "start_char": 8680,
+      "end_char": 9104
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_021",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 9054,
+      "end_char": 9566
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_022",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 9516,
+      "end_char": 10028
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_023",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 9978,
+      "end_char": 10490
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_024",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 10440,
+      "end_char": 10952
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_025",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 409,
+      "start_char": 10902,
+      "end_char": 11312
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_026",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 483,
+      "start_char": 11262,
+      "end_char": 11746
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_027",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 463,
+      "start_char": 11696,
+      "end_char": 12160
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_028",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 12110,
+      "end_char": 12622
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_029",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 12572,
+      "end_char": 13084
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_030",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 511,
+      "start_char": 13034,
+      "end_char": 13546
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_031",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 13496,
+      "end_char": 14008
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_032",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 472,
+      "start_char": 13958,
+      "end_char": 14431
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_033",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 456,
+      "start_char": 14381,
+      "end_char": 14838
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_034",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 511,
+      "start_char": 14788,
+      "end_char": 15300
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_035",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 510,
+      "start_char": 15250,
+      "end_char": 15762
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_036",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 512,
+      "start_char": 15712,
+      "end_char": 16224
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_037",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 494,
+      "start_char": 16174,
+      "end_char": 16669
+    },
+    {
+      "chunk_id": "populated_acord_1_propertyloss-notice_chunk_038",
+      "source_file": "populated_acord_1_propertyloss-notice.txt",
+      "chunk_size": 453,
+      "start_char": 16619,
+      "end_char": 17072
+    }
+  ],
+  "pipeline_results": {
+    "start_time": "2025-09-04T20:51:01.457858",
+    "source_dir": "D:\\Training\\Shaw\\AI-Builders-Bootcamp-6\\session-3\\homework3\\LLM_Assisted_Claims_Submission_Text_Embeddings_Program\\source_output_files",
+    "output_dir": "D:\\Training\\Shaw\\AI-Builders-Bootcamp-6\\session-3\\homework3\\LLM_Assisted_Claims_Submission_Text_Embeddings_Program\\embeddings_output",
+    "index_name": "claims-embeddings-local",
+    "steps_completed": [
+      "chunking",
+      "embeddings_generation",
+      "vector_database_setup",
+      "embeddings_storage"
+    ],
+    "errors": [],
+    "statistics": {
+      "chunks_created": 167,
+      "embeddings_generated": 167
+    }
+  }
+}

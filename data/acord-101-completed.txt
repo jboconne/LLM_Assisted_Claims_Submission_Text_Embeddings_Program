@@ -1,0 +1,97 @@
+# COMPLETED SAMPLE ACORD 101 - ADDITIONAL REMARKS SCHEDULE
+
+THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,  
+**FORM NUMBER:** ACORD 3  
+**FORM TITLE:** LIABILITY NOTICE OF OCCURRENCE / CLAIM  
+
+**AGENCY CUSTOMER ID:** HCS-23782  
+**LOC #:** 004  
+
+**AGENCY:** Eastern Insurance Brokers  
+**CARRIER:** Summit Insurance Company  
+**NAIC CODE:** 44728  
+**POLICY NUMBER:** GL-23578-B  
+**NAMED INSURED:** Harrison Construction Services, LLC  
+**EFFECTIVE DATE:** 06/01/2024  
+
+## ADDITIONAL REMARKS
+
+**Coverage Information:**  
+Commercial General Liability Policy with the following limits:
+- Each Occurrence Limit: $2,000,000
+- General Aggregate: $4,000,000
+- Products-Completed Operations Aggregate: $4,000,000
+- Personal & Advertising Injury: $1,000,000
+- Damage to Premises Rented: $300,000
+- Medical Expense (per person): $10,000
+
+**Additional Parties Involved:**  
+
+1. **Property Owner:**  
+   Newbury Street Holdings, LLC  
+   500 Boylston Street, Suite 1400  
+   Boston, MA 02116  
+   Contact: Richard Manning  
+   Phone: (617) 555-3300  
+   Relationship: Retail building owner and landlord to the damaged retail store
+
+2. **Retail Business:**  
+   Newbury Street Boutique, Inc.  
+   290 Newbury Street  
+   Boston, MA 02116  
+   Contact: Linda Shapiro, Manager  
+   Phone: (617) 555-2200  
+   Insurance: Hartford Business Insurance, Policy #HB-789456  
+   Relationship: Business tenant occupying damaged property
+
+3. **Crane Equipment Manufacturer:**  
+   Superior Crane Systems, Inc.  
+   8700 Industrial Boulevard  
+   Pittsburgh, PA 15220  
+   Crane Model: SCS-450HD  
+   Serial Number: HD45679283  
+   Purchase Date: 06/15/2023  
+   Last Maintenance: 01/03/2025
+
+**Additional Information on Loss:**  
+Weather conditions at time of incident: Clear, 38°F, winds 5-7 mph  
+Construction project: Commercial retail renovation  
+Project start date: 11/05/2024  
+Expected completion: 05/15/2025  
+Project value: $3.2 million
+
+The retail store will be closed for an estimated 3-4 months for repairs, resulting in business interruption claims. The neighboring businesses have reported no physical damage but are claiming reduced foot traffic due to the accident site and safety barriers.
+
+**Immediate Actions Taken:**  
+1. Emergency services contacted immediately
+2. Building secured by construction emergency response team
+3. Temporary structural supports installed to prevent further collapse
+4. Water shut off to mitigate ongoing water damage
+5. Debris removal initiated after OSHA preliminary assessment
+6. Security personnel stationed at site 24/7
+7. Engineering firm hired to assess structural integrity
+
+**Subcontractors On Site at Time of Loss:**  
+1. Boston Electrical Solutions (electrical contractor)
+2. Metropolitan Plumbing Services (plumbing contractor)
+3. Urban Scaffolding, Inc. (scaffolding installation)
+
+None of the subcontractors were directly involved in crane operation at the time of the incident.
+
+**Additional Witnesses:**  
+4. **Teresa Huang** (Retail store employee)  
+   144 Charles Street  
+   Boston, MA 02114  
+   (617) 555-9087
+
+5. **Frank Miller** (Construction worker)  
+   57 Dorchester Avenue  
+   Dorchester, MA 02125  
+   (617) 555-4433
+
+**Prior Claims History:**  
+Harrison Construction Services has had two minor property damage claims in the past three years:
+1. 06/12/2023: $12,500 - Vehicle damaged by falling materials
+2. 11/28/2024: $8,750 - Fence damage at residential construction site
+
+No previous claims involving crane operations or bodily injury.

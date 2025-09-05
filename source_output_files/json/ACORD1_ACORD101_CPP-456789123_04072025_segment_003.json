@@ -1,0 +1,15 @@
+{
+  "source_file": "ACORD1_ACORD101_CPP-456789123_04072025_segment_003.txt",
+  "extraction_date": "2025-08-29T00:30:11.849363",
+  "fields": {
+    "3": "c additional remarks insured Northside Manufacturing Incorporated policy number C is in Charlie Pearson Paul he is in Paul Dash 456789123 carrier Centennial Commercial Insurance",
+    "amounts": [
+      3.0,
+      456.0,
+      789.0,
+      123.0
+    ],
+    "extraction_timestamp": "2025-08-29T00:30:11.849359",
+    "extraction_method": "enhanced_parsing"
+  }
+}

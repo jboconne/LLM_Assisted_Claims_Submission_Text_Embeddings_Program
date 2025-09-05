@@ -1,0 +1,54 @@
+{
+  "form_type": "ACORD-3 Liability-Notice-of-Occurence-",
+  "form_version": "1.0",
+  "extraction_date": "2025-08-29T00:30:11.856706",
+  "status": "extracted",
+  "fields": {
+    "calling Robert Johnson": "in parentheses area code 555-234-5678 sub bullet 2 facility manager calling Michael Garcia area code 555-987-6543 Insurance area code 555-876-5432 bullet 7 Recovery plan stop contractors industrial restoration services mobilized on April 8th 2025 production equipment assessment and replacement plan underway at 4:00 for return to full operations 5000 3 million 2,200,000 150,000 this concludes the property this is Jeff O'Connell on April 25th 2025",
+    "phone_numbers": [
+      "555-234-5678",
+      "555-987-6543",
+      "555-876-5432"
+    ],
+    "amounts": [
+      555.0,
+      234.0,
+      567.0,
+      8.0,
+      2.0,
+      555.0,
+      987.0,
+      654.0,
+      3.0,
+      555.0,
+      876.0,
+      543.0,
+      2.0,
+      7.0,
+      8.0,
+      202.0,
+      5.0,
+      4.0,
+      0.0,
+      500.0,
+      0.0,
+      3.0,
+      2200000.0,
+      150000.0,
+      25.0,
+      202.0,
+      5.0
+    ],
+    "addresses": [
+      "7 Recovery plan stop contractors industrial rest",
+      "2025 production equipment assessment and replacement plan underway"
+    ],
+    "extraction_timestamp": "2025-08-29T00:30:11.854020",
+    "extraction_method": "enhanced_parsing"
+  },
+  "metadata": {
+    "source_files": [],
+    "processing_notes": [],
+    "confidence_score": 0.8500000000000001
+  }
+}

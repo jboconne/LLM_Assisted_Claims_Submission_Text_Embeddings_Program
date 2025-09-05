@@ -1,0 +1,76 @@
+{
+  "schema_name": "audio_transcription_schema",
+  "schema_version": "1.0",
+  "description": "Schema for audio transcription and speech recognition data",
+  "fields": {
+    "transcription_text": {
+      "type": "string",
+      "description": "Full transcribed text from audio",
+      "required": true,
+      "default": ""
+    },
+    "audio_duration": {
+      "type": "number",
+      "description": "Duration of audio in seconds",
+      "required": false,
+      "default": 0
+    },
+    "audio_format": {
+      "type": "string",
+      "description": "Original audio file format",
+      "required": false,
+      "default": ""
+    },
+    "speaker_identification": {
+      "type": "array",
+      "description": "List of identified speakers",
+      "required": false,
+      "default": []
+    },
+    "confidence_score": {
+      "type": "number",
+      "description": "Overall confidence in transcription accuracy",
+      "required": false,
+      "default": 0.0
+    },
+    "segments": {
+      "type": "array",
+      "description": "Audio segments with timestamps",
+      "required": false,
+      "default": []
+    },
+    "language_detected": {
+      "type": "string",
+      "description": "Primary language detected in audio",
+      "required": false,
+      "default": "en"
+    },
+    "noise_level": {
+      "type": "string",
+      "description": "Assessment of audio quality and noise",
+      "required": false,
+      "default": "unknown"
+    },
+    "key_phrases": {
+      "type": "array",
+      "description": "Important phrases or keywords extracted",
+      "required": false,
+      "default": []
+    },
+    "sentiment_analysis": {
+      "type": "object",
+      "description": "Sentiment analysis results",
+      "required": false,
+      "default": {
+        "overall_sentiment": "neutral",
+        "confidence": 0.0
+      }
+    }
+  },
+  "metadata": {
+    "created_by": "LLM Claims Processing System",
+    "created_date": "2024-12-01",
+    "last_modified": "2024-12-01",
+    "notes": "This schema defines the structure for audio transcription data including metadata and analysis results"
+  }
+}

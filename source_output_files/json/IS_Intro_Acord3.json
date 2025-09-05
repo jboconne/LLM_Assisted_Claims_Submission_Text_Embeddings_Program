@@ -1,0 +1,225 @@
+{
+  "Producer_Agency": "",
+  "ContactName": "",
+  "Phone": "",
+  "Fax": "",
+  "EmailAddress": "",
+  "Code": "",
+  "Subcode": "",
+  "AgencyCustomerID": "",
+  "Date": "",
+  "InsuredLocationCode": "",
+  "DateOfLoss": "",
+  "DateOfLossTime": "",
+  "Policy": {
+    "Carrier": "",
+    "NAICCode": "",
+    "PolicyNumber": "",
+    "LineOfBusiness": ""
+  },
+  "Insured": {
+    "Name": "",
+    "DateOfBirth": "",
+    "FEIN": "",
+    "PrimaryPhone": "",
+    "PrimaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "SecondaryPhone": "",
+    "SecondaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "MailingAddress": "",
+    "PrimaryEmailAddress": "",
+    "SecondaryEmailAddress": ""
+  },
+  "Contact": {
+    "ContactInsured": false,
+    "Name": "",
+    "PrimaryPhone": "",
+    "PrimaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "SecondaryPhone": "",
+    "SecondaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "WhenToContact": "",
+    "MailingAddress": "",
+    "PrimaryEmailAddress": "",
+    "SecondaryEmailAddress": ""
+  },
+  "Occurrence": {
+    "Location": {
+      "Street": "",
+      "CityStateZip": "",
+      "Country": "",
+      "Description": ""
+    },
+    "PoliceOrFireDeptContacted": "",
+    "ReportNumber": "",
+    "DescriptionOfOccurrence": ""
+  },
+  "TypeOfLiability": {
+    "Premises": {
+      "IsOwner": false,
+      "IsTenant": false,
+      "IsOtherCheckBox": false,
+      "Other": "",
+      "OwnerNameAndAddress": "",
+      "TypeOfPremises": "",
+      "OwnersPrimaryPhone": "",
+      "OwnersPrimaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "OwnersSecondaryPhone": "",
+      "OwnersSecondaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "OwnersPrimaryEmailAddress": "",
+      "OwnersSecondaryEmailAddress": ""
+    },
+    "Products": {
+      "IsManufacturer": false,
+      "IsVendor": false,
+      "IsOtherCheckBox": false,
+      "Other": "",
+      "ManufacturersNameAndAddress": "",
+      "TypeOfProduct": "",
+      "ManufacturersPrimaryPhone": "",
+      "ManufacturersPrimaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "ManufacturersSecondaryPhone": "",
+      "ManufacturersSecondaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "ManufacturersPrimaryEmailAddress": "",
+      "ManufacturersSecondaryEmailAddress": "",
+      "WhereCanProductBeSeen": ""
+    }
+  },
+  "InjuredOrPropertyDamaged": {
+    "NameAndAddress": "",
+    "PrimaryPhone": "",
+    "PrimaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "SecondaryPhone": "",
+    "SecondaryPhoneType": {
+      "Home": false,
+      "Bus": false,
+      "Cell": false
+    },
+    "PrimaryEmailAddress": "",
+    "SecondaryEmailAddress": "",
+    "Employer": {
+      "NameAndAddress": "",
+      "PrimaryPhone": "",
+      "PrimaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "SecondaryPhone": "",
+      "SecondaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "PrimaryEmailAddress": "",
+      "SecondaryEmailAddress": ""
+    },
+    "Age": "",
+    "Sex": "",
+    "Occupation": "",
+    "DescribeInjury": "",
+    "WhereTaken": "",
+    "WhatWasInjuredDoing": "",
+    "DescribeProperty": "",
+    "EstimateAmount": "",
+    "WhereCanPropertyBeSeen": ""
+  },
+  "Witnesses": [
+    {
+      "NameAndAddress": "",
+      "PrimaryPhone": "",
+      "PrimaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "SecondaryPhone": "",
+      "SecondaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "PrimaryEmailAddress": "",
+      "SecondaryEmailAddress": ""
+    },
+    {
+      "NameAndAddress": "",
+      "PrimaryPhone": "",
+      "PrimaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "SecondaryPhone": "",
+      "SecondaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "PrimaryEmailAddress": "",
+      "SecondaryEmailAddress": ""
+    },
+    {
+      "NameAndAddress": "",
+      "PrimaryPhone": "",
+      "PrimaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "SecondaryPhone": "",
+      "SecondaryPhoneType": {
+        "Home": false,
+        "Bus": false,
+        "Cell": false
+      },
+      "PrimaryEmailAddress": "",
+      "SecondaryEmailAddress": ""
+    }
+  ],
+  "Remarks": {
+    "Text": "",
+    "ReportedBy": "",
+    "ReportedTo": ""
+  },
+  "metadata": {
+    "extraction_date": "2025-08-29T00:30:11.872842",
+    "source_file": "IS_Intro.txt",
+    "confidence_score": 1.0,
+    "processing_notes": "Processed using unknown template"
+  }
+}

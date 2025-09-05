@@ -1,0 +1,290 @@
+POPULATED ACORD FORM
+Generated: 2025-08-29 00:30:11
+================================================================================
+
+ORIGINAL TEMPLATE CONTENT:
+----------------------------------------
+LIABILITY NOTICE OF OCCURRENCE / CLAIM DATE (MM/DD/YYYY)
+AGENCY INSURED LOCATION CODE DATE OF LOSS AND TIME AM
+PM
+CARRIER NAIC CODE
+POLICY NUMBER
+CONTACT
+NAME:
+PHONE LINE OF BUSINESS
+(A/C, No, Ext):
+FAX
+(A/C, No):
+E-MAIL
+ADDRESS:
+CODE: SUBCODE:
+AGENCY CUSTOMER ID:
+INSURED
+NAME OF INSURED (First, Middle, Last) INSURED'S MAILING ADDRESS
+DATE OF BIRTH FEIN (if applicable)
+PP HR OIM NA ER #Y HOME BUS CELL PS HEC OO NN E D #ARY HOME BUS CELL PRIMARY E-MAIL ADDRESS:
+SECONDARY E-MAIL ADDRESS:
+CONTACT CONTACT INSURED
+NAME OF CONTACT (First, Middle, Last) CONTACT'S MAILING ADDRESS
+PRIMARY HOME BUS CELL SECONDARY HOME BUS CELL
+PHONE # PHONE #
+WHEN TO CONTACT
+PRIMARY E-MAIL ADDRESS:
+SECONDARY E-MAIL ADDRESS:
+OCCURRENCE
+LOCATION OF OCCURRENCE POLICE OR FIRE DEPARTMENT CONTACTED
+STREET:
+CITY, STATE, ZIP: REPORT NUMBER
+COUNTRY:
+DESCRIBE LOCATION OF OCCURRENCE IF NOT AT SPECIFIC STREET ADDRESS:
+DESCRIPTION OF OCCURRENCE (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)
+TYPE OF LIABILITY
+PREMISES: INSURED IS OWNER TENANT TYPE OF PREMISES
+OWNER'S NAME & ADDRESS (If not insured)
+PRIMARY HOME BUS CELL SECONDARY HOME BUS CELL
+PHONE # PHONE #
+PRIMARY E-MAIL ADDRESS:
+SECONDARY E-MAIL ADDRESS:
+PRODUCTS: INSURED IS MANUFACTURER VENDOR TYPE OF PRODUCT
+MANUFACTURER'S NAME & ADDRESS (If not insured)
+PRIMARY HOME BUS CELL SECONDARY HOME BUS CELL
+PHONE # PHONE #
+PRIMARY E-MAIL ADDRESS:
+SECONDARY E-MAIL ADDRESS:
+WHERE CAN PRODUCT BE SEEN?
+ACORD 3 (2016/10) Page 1 of 4 © 1986-2016 ACORD CORPORATION. All rights reserved.
+The ACORD name and logo are registered marks of ACORD
+ACORDs provided by Forms Boss. www.FormsBoss.com; (c) Impressive Publishing 800-208-1977
+AGENCY CUSTOMER ID:
+INJURED / PROPERTY DAMAGED
+NAME & ADDRESS (Injured/Owner) EMPLOYER'S NAME & ADDRESS
+PRIMARY HOME BUS CELL SECONDARY HOME BUS CELL PRIMARY HOME BUS CELL SECONDARY HOME BUS CELL
+PHONE # PHONE # PHONE # PHONE #
+PRIMARY E-MAIL ADDRESS: PRIMARY E-MAIL ADDRESS:
+SECONDARY E-MAIL ADDRESS: SECONDARY E-MAIL ADDRESS:
+AGE SEX OCCUPATION DESCRIBE INJURY
+WHERE TAKEN WHAT WAS INJURED DOING?
+DESCRIBE PROPERTY (Type, model, etc.) ESTIMATE AMOUNT WHERE CAN PROPERTY BE SEEN?
+WITNESSES
+NAME AND ADDRESS PP HR OIM NA ER #Y HOME BUS CELL PS HEC OO NN E D #ARY HOME BUS CELL
+PRIMARY E-MAIL ADDRESS:
+SECONDARY E-MAIL ADDRESS:
+NAME AND ADDRESS PP HR OIM NA ER #Y HOME BUS CELL PS HEC OO NN E D #ARY HOME BUS CELL
+PRIMARY E-MAIL ADDRESS:
+SECONDARY E-MAIL ADDRESS:
+NAME AND ADDRESS PP HR OIM NA ER #Y HOME BUS CELL PS HEC OO NN E D #ARY HOME BUS CELL
+PRIMARY E-MAIL ADDRESS:
+SECONDARY E-MAIL ADDRESS:
+REMARKS (ACORD 101, Additional Remarks Schedule, may be attached if more space is required)
+REPORTED BY REPORTED TO
+ACORD 3 (2016/10) Page 2 of 4
+AGENCY CUSTOMER ID:
+Applicable in Alabama: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or who knowingly
+presents false information in an application for insurance is guilty of a crime and may be subject to restitution, fines, or confinement in
+prison, or any combination thereof.
+Applicable in Alaska: A person who knowingly and with intent to injure, defraud, or deceive an insurance company files a claim
+containing false, incomplete, or misleading information may be prosecuted under state law.
+Applicable in Arizona: For your protection Arizona law requires the following statement to appear on
+this form. Any person who knowingly presents a false or fraudulent claim for payment of a loss is
+subject to criminal and civil penalties.
+Applicable in Arkansas: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly
+presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+Applicable in California: For your protection California law requires the following to appear on this form. Any person who knowingly
+presents false or fraudulent claim for the payment of a loss is guilty of a crime and may be subject to fines and confinement in state
+prison.
+Applicable in Colorado: It is unlawful to knowingly provide false, incomplete, or misleading facts or information to an insurance company
+for the purpose of defrauding or attempting to defraud the company. Penalties may include imprisonment, fines, denial of insurance and
+civil damages. Any insurance company or agent of an insurance company who knowingly provides false, incomplete, or misleading facts
+or information to a policyholder or claimant for the purpose of defrauding or attempting to defraud the policyholder or claimant with regard
+to a settlement or award payable for insurance proceeds shall be reported to the Colorado Division of Insurance within the Department of
+Regulatory Agencies.
+Applicable in Delaware: Any person who knowingly, and with intent to injure, defraud or deceive any insurer, files a statement of claim
+containing any false, incomplete or misleading information is guilty of a felony.
+Applicable in the District of Columbia: WARNING: It is a crime to provide false or misleading information to an insurer for the purpose
+of defrauding the insurer or any other person. Penalties include imprisonment and/or fines. In addition, an insurer may deny insurance
+benefits if false information materially related to a claim was provided by the applicant.
+Applicable in Florida: Any person who knowingly and with intent to injure, defraud, or deceive any insurer files a statement of claim
+containing any false, incomplete, or misleading information is guilty of a felony of the third degree.
+Applicable in Hawaii: Any person who intentionally or knowingly misrepresents or conceals material facts, opinions, intention, or law to
+obtain or attempt to obtain coverage, benefits, recovery, or compensation commits the offense of insurance fraud which is a crime
+punishable by fines or imprisonment or both.
+Applicable in Idaho: Any person who knowingly, and with intent to defraud or deceive any insurance company, files a statement
+containing any false, incomplete or misleading information is guilty of a felony.
+Applicable in Indiana: A person who knowingly and with intent to defraud an insurer files a statement of claim containing any false,
+incomplete, or misleading information commits a felony.
+Applicable in Kansas: Any person who, knowingly and with intent to defraud, presents, causes to be presented or prepares with
+knowledge or belief that it will be presented to or by an insurer, purported insurer, broker or any agent thereof, any written, electronic,
+electronic impulse, facsimile, magnetic, oral, or telephonic communication or statement as part of, or in support of, an application for the
+issuance of, or the rating of an insurance policy for personal or commercial insurance, or a claim for payment or other benefit pursuant to
+an insurance policy for commercial or personal insurance which such person knows to contain materially false information concerning any
+fact material thereto; or conceals, for the purpose of misleading, information concerning any fact material thereto commits a fraudulent
+insurance act.
+Applicable in Kentucky: Any person who knowingly and with intent to defraud any insurance company or other person files a statement
+of claim containing any materially false information or conceals, for the purpose of misleading, information concerning any fact material
+thereto commits a fraudulent insurance act, which is a crime.
+Applicable in Louisiana: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly
+presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+Applicable in Maine: It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the
+purpose of defrauding the company. Penalties may include imprisonment, fines or denial of insurance benefits.
+Applicable in Maryland: Any person who knowingly or willfully presents a false or fraudulent claim for payment of a loss or benefit or
+who knowingly or willfully presents false information in an application for insurance is guilty of a crime and may be subject to fines and
+confinement in prison.
+Applicable in Michigan: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly
+presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+Applicable in Minnesota: A person who files a claim with intent to defraud or helps commit a fraud against an insurer is guilty of a crime.
+ACORD 3 (2016/10) Page 3 of 4
+AGENCY CUSTOMER ID:
+Applicable in Nevada: Pursuant to NRS 686A.291, any person who knowingly and willfully files a statement of claim that contains any
+false, incomplete or misleading information concerning a material fact is guilty of a category D felony.
+Applicable in New Hampshire: Any person who, with a purpose to injure, defraud or deceive any insurance company, files a statement
+of claim containing any false, incomplete or misleading information is subject to prosecution and punishment for insurance fraud as
+provided in RSA 638:20.
+Applicable in New Jersey: Any person who knowingly files a statement of claim containing any false or misleading information is subject
+to criminal and civil penalties.
+Applicable in New Mexico: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly
+presents false information in an application for insurance is guilty of a crime and may be subject to civil fines and criminal penalties.
+Applicable in New York: Any person who knowingly and with intent to defraud any insurance company or other person files an
+application for insurance or statement of claim containing any materially false information, or conceals for the purpose of misleading,
+information concerning any fact material thereto, commits a fraudulent insurance act, which is a crime, and shall also be subject to a civil
+penalty not to exceed five thousand dollars and the stated value of the claim for each such violation.
+Applicable in Ohio: Any person who, with intent to defraud or knowing that he is facilitating a fraud against an insurer, submits an
+application or files a claim containing a false or deceptive statement is guilty of insurance fraud.
+Applicable in Oklahoma: WARNING: Any person who knowingly, and with intent to injure, defraud or deceive any insurer, makes any
+claim for the proceeds of an insurance policy containing any false, incomplete or misleading information is guilty of a felony.
+Applicable in Oregon: Any person who knowingly and with intent to defraud or solicit another to defraud the insurer by submitting an
+application containing a false statement as to any material fact may be violating state law.
+Applicable in Pennsylvania: Any person who knowingly and with intent to defraud any insurance company or other person files an
+application for insurance or statement of claim containing any materially false information or conceals for the purpose of misleading,
+information concerning any fact material thereto commits a fraudulent insurance act, which is a crime and subjects such person to criminal
+and civil penalties.
+Applicable in Puerto Rico: Any person who knowingly and with the intention of defrauding presents false information in an insurance
+application, or presents, helps, or causes the presentation of a fraudulent claim for the payment of a loss or any other benefit, or presents
+more than one claim for the same damage or loss, shall incur a felony and, upon conviction, shall be sanctioned for each violation by a
+fine of not less than five thousand dollars ($5,000) and not more than ten thousand dollars ($10,000), or a fixed term of imprisonment for
+three (3) years, or both penalties. Should aggravating circumstances [be] present, the penalty thus established may be increased to a
+maximum of five (5) years, if extenuating circumstances are present, it may be reduced to a minimum of two (2) years.
+Applicable in Rhode Island: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly
+presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+Applicable in Tennessee: It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the
+purpose of defrauding the company. Penalties include imprisonment, fines and denial of insurance benefits.
+Applicable in Texas: Any person who knowingly presents a false or fraudulent claim for the payment of a loss is guilty of a crime and
+may be subject to fines and confinement in state prison.
+Applicable in Virginia: It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for the
+purpose of defrauding the company. Penalties include imprisonment, fines and denial of insurance benefits.
+Applicable in Washington: It is a crime to knowingly provide false, incomplete or misleading information to an insurance company for
+the purpose of defrauding the company. Penalties include imprisonment, fines and denial of insurance benefits.
+Applicable in West Virginia: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly
+presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.
+ACORD 3 (2016/10) Page 4 of 4
+
+EXTRACTED DATA FOR POPULATION:
+----------------------------------------
+
+📄 Source: acord-1-form
+📝 Content: # ACORD 1 - PROPERTY LOSS NOTICE
+
+**DATE (MM/DD/YYYY):** 04/15/2025
+
+## AGENCY INFORMATION
+**AGENCY NAME:** Premier Insurance Agency  
+**CONTACT:** Sarah Johnson  
+**PHONE (A/C, No, Ext):** (555) 432-1098 Ext. 204  
+**FAX (A/C, No):** (555) 432-1099  
+**E-MAIL ADDRESS:** sjohnson@premierinsurance.co...
+------------------------------
+
+📄 Source: acord-101-completed
+📝 Content: # COMPLETED SAMPLE ACORD 101 - ADDITIONAL REMARKS SCHEDULE
+
+THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,  
+**FORM NUMBER:** ACORD 3  
+**FORM TITLE:** LIABILITY NOTICE OF OCCURRENCE / CLAIM  
+
+**AGENCY CUSTOMER ID:** HCS-23782  
+**LOC #:** 004  
+
+**AGENCY:** Eastern Insurance Brokers  
+*...
+------------------------------
+
+📄 Source: acord-101-form
+📝 Content: # ACORD 101 - ADDITIONAL REMARKS SCHEDULE
+
+**THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,**  
+**FORM NUMBER:** ACORD 1  
+**FORM TITLE:** PROPERTY LOSS NOTICE  
+
+**Page:** 1 of 1  
+**AGENCY CUSTOMER ID:** SB00723  
+
+**AGENCY:** Premier Insurance Agency  
+**CARRIER:** Northeast Insurance ...
+------------------------------
+
+📄 Source: acord-3-completed
+📝 Content: # COMPLETED SAMPLE ACORD 3 - LIABILITY NOTICE OF OCCURRENCE / CLAIM
+
+## AGENCY INFORMATION
+**DATE:** 01/18/2025
+**PRODUCER:** Eastern Insurance Brokers
+**CONTACT:** Sarah Johnson
+**PHONE:** (617) 555-7200
+**FAX:** (617) 555-7201
+**E-MAIL:** sjohnson@easternins.com
+**CODE:** EI3948
+**SUBCODE:** 0012
+...
+------------------------------
+
+📄 Source: ACORD1_ACORD101_CPP-456789123_04072025_segment_001
+📝 Content: this is Jeff O'Connell Brown ifg companies accepting an accord one property loss notice producer agency name Summit Business Insurance Agency the producer is David Thompson phone number area code 555-345-6789 fax number area code 555-345-6790 producers email.com C O M agency customer ID s's in Sierr...
+------------------------------
+
+📄 Source: ACORD1_ACORD101_CPP-456789123_04072025_segment_002
+📝 Content: Euro Industrial Parkway Building C Metropolis Illinois 60001 description of loss fire damage in production facility period started in an electrical panel on north wall of manufacturing floor period sprinkler system activated period fire damage to equipment in inventory period smoke and water damage ...
+------------------------------
+
+📄 Source: ACORD1_ACORD101_CPP-456789123_04072025_segment_003
+📝 Content: 3 - c additional remarks insured Northside Manufacturing Incorporated policy number C is in Charlie Pearson Paul he is in Paul Dash 456789123 carrier Centennial Commercial Insurance
+------------------------------
+
+📄 Source: ACORD1_ACORD101_CPP-456789123_04072025_segment_004
+📝 Content: calling Robert Johnson - in parentheses area code 555-234-5678 sub bullet 2 facility manager calling Michael Garcia area code 555-987-6543 Insurance area code 555-876-5432 bullet 7 Recovery plan stop contractors industrial restoration services mobilized on April 8th 2025 production equipment assessm...
+------------------------------
+
+📄 Source: Completed Sample ACORD 101 Form
+📝 Content: COMPLETED SAMPLE ACORD 101 - ADDITIONAL REMARKS
+SCHEDULE
+THIS ADDITIONAL REMARKS FORM IS A SCHEDULE TO ACORD FORM,
+FORM NUMBER: ACORD 3
+FORM TITLE: LIABILITY NOTICE OF OCCURRENCE / CLAIM
+AGENCY CUSTOMER ID: HCS-23782
+LOC #: 004
+AGENCY: Eastern Insurance Brokers
+CARRIER: Summit Insurance Company
+NAIC...
+------------------------------
+
+📄 Source: Completed Sample ACORD 3 Form
+📝 Content: COMPLETED SAMPLE ACORD 3 - LIABILITY NOTICE OF
+OCCURRENCE / CLAIM
+AGENCY INFORMATION
+DATE: 01/18/2025
+PRODUCER: Eastern Insurance Brokers
+CONTACT: Sarah Johnson
+PHONE: (617) 555-7200
+FAX: (617) 555-7201
+E-MAIL: sjohnson@easternins.com
+CODE: EI3948
+SUBCODE: 0012
+AGENCY CUSTOMER ID: HCS-23782
+POLICY I...
+------------------------------
+
+📄 Source: IS_Intro
+📝 Content: inscribe works on Mac or Windows and while this demo is on the Mac version the software is pretty much identical on both platforms using inscribe couldn't be simpler launched the application Dragon audio or video file onto Inc scribes media window click play and start typing hello you can type anyth...
+------------------------------
+
+📄 Source: TestimonialShort
+📝 Content: I'm Jeff O'Connell I'm a senior software engineer for privately held Property and Casualty Company I've got about 15 years of experience as in web development full stack engineer 13 of those years was with the Healthcare Company how are came about this boot camp was I subscribe to new line and one d...
+------------------------------
